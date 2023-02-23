@@ -1,0 +1,10 @@
+<?php
+//Output "Hello World" if $a is greater than $b.
+$a = 10;
+$b = 20;
+
+if($a > $b){
+    echo "A is grater then B";
+}else{ 
+    echo "A is less than B";
+}
